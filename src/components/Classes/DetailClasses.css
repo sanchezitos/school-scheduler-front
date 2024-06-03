@@ -1,0 +1,40 @@
+.class-detail-card {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.class-detail-title {
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.class-detail-info {
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.class-detail-section {
+    margin-bottom: 1.5rem;
+}
+
+.class-detail-subtitle {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.class-detail-link {
+    display: block;
+    color: #1976d2;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+
+.class-detail-link:hover {
+    text-decoration: underline;
+}
+
+.class-detail-button {
+    display: block;
+    margin-top: 0.5rem;
+}

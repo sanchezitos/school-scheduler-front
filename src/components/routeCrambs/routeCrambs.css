@@ -1,0 +1,18 @@
+.breadcrumbs-container {
+  margin: 20px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.breadcrumb-link {
+  color: #1976d2;
+  text-decoration: none;
+}
+
+.breadcrumb-link:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb-text {
+  text-transform: capitalize;
+}
